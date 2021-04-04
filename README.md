@@ -17,10 +17,11 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 <div align="center">
     <details>
         <summary>Details</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
-        <div class = "position:relative; left:80px;">
-            <a href="https://calvin-yoh.github.io/index.html">Website</a>
-        </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">        
     </details>
+</div>
+
+<div class = "position:relative; left:80px;">
+    <a href="https://calvin-yoh.github.io/index.html">Website</a>
 </div>
 
