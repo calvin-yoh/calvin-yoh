@@ -14,12 +14,12 @@
 Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
 Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
-<p align="center">
+<div align="center">
     <details>
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
     </details>
-</p>
+</div>
 
 
 <!--
