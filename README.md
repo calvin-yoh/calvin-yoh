@@ -18,7 +18,7 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
 <details>
   <summary>Details</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)]()
+    <a href="https://github-readme-stats.vercel.app/api?username=calvin-yoh"></a>
 </details>
 
 <!--
