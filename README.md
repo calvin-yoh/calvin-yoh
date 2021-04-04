@@ -18,7 +18,7 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
 <details>
   <summary>Details</summary>
-    <a href="https://github-readme-stats.vercel.app/api?username=calvin-yoh"> Hello </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh" width="500" height= "600">
 </details>
 
 <!--
