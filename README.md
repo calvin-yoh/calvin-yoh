@@ -1,4 +1,7 @@
-### Hi! I'm Calvin Yoh
+<p align="center">
+   ## Hi! I'm Calvin Yoh
+</p>
+
 <p align="center">
    「 Computer Science @ **UCR** 」
 </p>
