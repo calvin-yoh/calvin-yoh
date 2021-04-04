@@ -2,8 +2,8 @@
 Computer Science @ UCR 
 Currently interning at the UCR Brain Games Center.
 
-Check out my website here : [!Calvin Yoh](https://calvin-yoh.github.io/index.html)
-Play some of my games here : [!Calvin's Itch](https://calvinyoh.itch.io/)
+Check out my website here : ![Calvin Yoh](https://calvin-yoh.github.io/index.html)
+Play some of my games here : ![Calvin's Itch](https://calvinyoh.itch.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)](https://github.com/anuraghazra/github-readme-stats)
 
