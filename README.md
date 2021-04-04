@@ -1,3 +1,4 @@
+<html>
 <style>
     .center {
     left: 80px
@@ -30,4 +31,5 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
         </div>
     </details>
 </div>
+</html>
 
