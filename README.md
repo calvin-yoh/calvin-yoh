@@ -1,6 +1,6 @@
 <style>
     .center {
-    left: 25%
+    left: 80px
     }
 </style>
 
