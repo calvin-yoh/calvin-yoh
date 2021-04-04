@@ -1,9 +1,7 @@
 <style>
     .center {
     margin: auto;
-    width: 60%;
-    border: 3px solid #73AD21;
-    padding: 10px;
+    width: 25%;
     }
 </style>
 
@@ -31,7 +29,7 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
         <div class = "center">
-            <br><a href="https://calvin-yoh.github.io/index.html">Website</a>
+            <a href="https://calvin-yoh.github.io/index.html">Website</a>
         </div>
     </details>
 </div>
