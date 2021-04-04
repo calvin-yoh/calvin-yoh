@@ -14,11 +14,9 @@
 Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
 Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)
-
 <details>
   <summary>Details</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh" width="500" height= "600">
+    <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
 </details>
 
 <!--
