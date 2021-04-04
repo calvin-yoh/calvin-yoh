@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-   「 Computer Science @ <b>UCR<\b> 」
+   「 Computer Science @ <b>UCR</b> 」
 </p>
 
 <p align="center">
