@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Calvin Yoh
+Computer Science @ UCR 
+Currently interning at the UCR Brain Games Center.
+
+Check out my website here : https://calvin-yoh.github.io/index.html (work-in-progress)
+Play some of my games here : https://calvinyoh.itch.io/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **calvin-yoh/calvin-yoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
