@@ -17,11 +17,8 @@
 
 <div align="center">
     <details>
-        <summary>Details</summary>
+        <summary>GitHub Stats</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">      
-        <div align = "left:0px;">
-            <a href="https://calvin-yoh.github.io/index.html">Website</a>
-        </div>
     </details>
 </div>
 
