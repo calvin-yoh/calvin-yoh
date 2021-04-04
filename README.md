@@ -7,17 +7,20 @@
 </p>
 
 <p align="center">
-   「  Game Developer @ **UCR Brain Games Center** 」
+    「  Game Developer @ <b>UCR Brain Games Center</b> 」
 </p>
     
 
 Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
 Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
-<details>
-  <summary>Details</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
-</details>
+<p align="center">
+    <details>
+        <summary>Details</summary>
+        <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
+    </details>
+</p>
+
 
 <!--
 **calvin-yoh/calvin-yoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
