@@ -1,10 +1,10 @@
 ### Hi! I'm Calvin Yoh
 <p align="center">
-    Computer Science @ UCR 
+   「 Computer Science @ UCR 」
 </p>
 
 <p align="center">
-    Currently interning at the UCR Brain Games Center.
+   「  Game Developer @ UCR Brain Games Center.」
 </p>
     
 
