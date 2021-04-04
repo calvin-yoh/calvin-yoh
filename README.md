@@ -10,7 +10,10 @@
     「  Game Developer @ <b>UCR Brain Games Center</b> 」
 </p>
     
-
+<p align="center">
+    Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
+    <br>Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
+</p>
 Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
 Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
