@@ -11,11 +11,9 @@
 </p>
     
 <p align="center">
-    Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
-    <br>Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
+    Check out my website here : <a href="https://calvin-yoh.github.io/index.html"</a>
+    <br>Play some of my games here : <a href="https://calvinyoh.itch.io/"</a>
 </p>
-Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
-Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
 <div align="center">
     <details>
