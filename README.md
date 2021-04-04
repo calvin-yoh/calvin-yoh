@@ -1,5 +1,5 @@
 <style>
-    .center {
+    .booga {
     margin: auto;
     width: 25%;
     }
@@ -28,7 +28,7 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
     <details>
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
-        <div class = "center">
+        <div class = "booga">
             <a href="https://calvin-yoh.github.io/index.html">Website</a>
         </div>
     </details>
