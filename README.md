@@ -1,3 +1,15 @@
+<style>
+    .center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    }
+</style>
+
+
+
+
 <h2 align="center">
     Hi! I'm Calvin Yoh
 </h2>
@@ -18,7 +30,9 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
     <details>
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
-        <br><a href="https://calvin-yoh.github.io/index.html">Website</a>
+        <div class = "center">
+            <br><a href="https://calvin-yoh.github.io/index.html">Website</a>
+        </div>
     </details>
 </div>
 
