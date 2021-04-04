@@ -1,10 +1,12 @@
 ### Hi! I'm Calvin Yoh
 <p align="center">
     Computer Science @ UCR 
-
-    Currently interning at the UCR Brain Games Center.
-
 </p>
+
+<p align="center">
+    Currently interning at the UCR Brain Games Center.
+</p>
+    
 
 Check out my website here : [Calvin's Website](https://calvin-yoh.github.io/index.html)
 Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
