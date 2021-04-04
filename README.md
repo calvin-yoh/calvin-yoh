@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<style>
-    .center {
-    left: 80px
-    }
-</style>
-
-
 <h2 align="center">
     Hi! I'm Calvin Yoh
 </h2>
@@ -27,10 +18,9 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
     <details>
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">
-        <div class = "center">
+        <div class = "position:relative; left:80px;">
             <a href="https://calvin-yoh.github.io/index.html">Website</a>
         </div>
     </details>
 </div>
-</html>
 
