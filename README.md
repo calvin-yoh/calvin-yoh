@@ -16,7 +16,10 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)]()
 
-
+<details>
+  <summary>Details</summary>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yoh)]()
+</details>
 
 <!--
 **calvin-yoh/calvin-yoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
