@@ -18,7 +18,7 @@ Play some of my games here : [Calvin's Itch](https://calvinyoh.itch.io/)
     <details>
         <summary>Details</summary>
         <img src="https://github-readme-stats.vercel.app/api?username=calvin-yoh">      
-        <div position: "absolute"; top: "0%"; left: "30%">
+        <div style = "position: absolute; left: 30%;">
             <a href="https://calvin-yoh.github.io/index.html">Website</a>
         </div>
     </details>
